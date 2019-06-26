@@ -16,12 +16,12 @@ public class MathFuntion {
     /**
      * @param args En este espacio se mostrará el 
      * metodo de la division, en este caso se dará
-     * la primera opción de entero
+     * la opción de numeros enteros
      */
     
     public static void DivisionInt(int dividendo, int divisor){
         /**
-         * @    En este espacio se hará la division entre
+         * @ param args En este espacio se hará la division entre
          * el dividendo y el divisor.
          */
         
